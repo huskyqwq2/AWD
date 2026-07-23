@@ -1,0 +1,158 @@
+[15:56:04] [main/INFO]: Loading Minecraft 26.1.2 with Fabric Loader 0.19.2
+[15:56:04] [main/INFO]: Mappings not present!
+[15:56:05] [main/INFO]: Loading 75 mods:
+	- c2me 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-base 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-client-uncapvd 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-fixes-chunkio-threading-issues 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-fixes-general-threading-issues 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-fixes-worldgen-threading-issues 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-notickvd 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-allocs 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-chunkio 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-dfc 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-math 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-natives-math 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-scheduling 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-worldgen-general 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-opts-worldgen-vanilla 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-rewrites-chunk-serializer 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-rewrites-chunk-system 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-rewrites-chunkio 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-server-utils 0.4.0-alpha.0.31+26.1.2
+	   |-- c2me-threading-lighting 0.4.0-alpha.0.31+26.1.2
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_github_ben-manes_caffeine_caffeine 3.2.1
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- com_ishland_c2me_tests_tests 0.4.0-alpha.0.31
+	   |-- io_reactivex_rxjava3_rxjava 3.1.12
+	   |-- mixinsquared 0.3.7-beta.1
+	   |-- net_objecthunter_exp4j 0.4.8
+	   |-- org_jctools_jctools-core 4.0.5
+	   \-- org_reactivestreams_reactive-streams 1.0.4
+	- carpet 26.1+v260402
+	- fabric-api 0.154.2+26.1.2
+	   |-- fabric-api-base 2.0.3+ece063234c
+	   |-- fabric-api-lookup-api-v1 2.0.12+d5a053b64c
+	   |-- fabric-biome-api-v1 18.0.5+2fa62b4e4c
+	   |-- fabric-block-api-v1 3.0.2+ec56b6014c
+	   |-- fabric-block-getter-api-v2 2.0.6+ec56b6014c
+	   |-- fabric-command-api-v2 3.0.5+e2bdee784c
+	   |-- fabric-content-registries-v0 11.2.1+76b0b6bb4c
+	   |-- fabric-convention-tags-v2 4.6.2+4f11f7994c
+	   |-- fabric-crash-report-info-v1 1.0.3+9f78a5a84c
+	   |-- fabric-creative-tab-api-v1 5.0.11+d871b99e4c
+	   |-- fabric-data-attachment-api-v1 2.2.9+44a0bd1d4c
+	   |-- fabric-data-generation-api-v1 24.3.2+574cf22d4c
+	   |-- fabric-debug-api-v1 1.0.1+c792624d4c
+	   |-- fabric-dimensions-v1 5.1.6+9cbf5da54c
+	   |-- fabric-entity-events-v1 5.0.2+e2bdee784c
+	   |-- fabric-events-interaction-v0 5.2.2+07b380be4c
+	   |-- fabric-game-rule-api-v1 4.0.5+d871b99e4c
+	   |-- fabric-item-api-v1 14.2.0+a2a3a8914c
+	   |-- fabric-key-mapping-api-v1 2.0.4+e2bdee784c
+	   |-- fabric-lifecycle-events-v1 4.1.1+df84eb3d4c
+	   |-- fabric-loot-api-v3 3.0.12+00a1fba64c
+	   |-- fabric-menu-api-v1 2.0.14+d871b99e4c
+	   |-- fabric-message-api-v1 7.0.5+dae8ce3e4c
+	   |-- fabric-model-loading-api-v1 8.0.11+c80601bb4c
+	   |-- fabric-networking-api-v1 6.3.1+554860db4c
+	   |-- fabric-object-builder-api-v1 23.1.0+abb459f14c
+	   |-- fabric-particles-v1 5.0.15+b61fef434c
+	   |-- fabric-permission-api-v1 1.0.2+7437387b4c
+	   |-- fabric-recipe-api-v1 9.0.16+be4b75ae4c
+	   |-- fabric-registry-sync-v0 7.1.0+2fa62b4e4c
+	   |-- fabric-renderer-api-v1 13.0.8+c80601bb4c
+	   |-- fabric-renderer-indigo 8.1.5+1403e82c4c
+	   |-- fabric-rendering-fluids-v1 6.0.1+d871b99e4c
+	   |-- fabric-rendering-v1 23.3.1+e9207d814c
+	   |-- fabric-resource-conditions-api-v1 6.1.0+83dd0ba34c
+	   |-- fabric-resource-loader-v0 3.3.17+4fc5413f4c
+	   |-- fabric-resource-loader-v1 2.0.10+7c44c7324c
+	   |-- fabric-screen-api-v1 5.1.0+981dd9b24c
+	   |-- fabric-serialization-api-v1 2.0.3+11a26f314c
+	   |-- fabric-sound-api-v1 2.0.4+11a26f314c
+	   |-- fabric-tag-api-v1 2.1.1+371cf5db4c
+	   |-- fabric-transfer-api-v1 8.0.6+357ea7334c
+	   \-- fabric-transitive-access-wideners-v1 8.1.3+3ff549fb4c
+	- fabricloader 0.19.2
+	   \-- mixinextras 0.5.4
+	- java 25
+	- krypton 0.3.0
+	   \-- com_velocitypowered_velocity-native 3.4.0-SNAPSHOT
+	- lithium 0.24.6+mc26.1.2
+	- minecraft 26.1.2
+[15:56:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/AWD/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.17.2+mixin.0.8.7/sponge-mixin-0.17.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:56:06] [main/INFO]: Compatibility level set to JAVA_16
+[15:56:06] [main/INFO]: Compatibility level set to JAVA_17
+[15:56:06] [main/INFO]: Compatibility level set to JAVA_25
+[15:56:06] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[15:56:07] [main/INFO]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.dfc.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.natives_math.mixin
+[15:56:07] [main/INFO]: Attempting to call native library. If your game crashes right after this point, native acceleration may not be available for your system.
+[15:56:07] [main/INFO]: Detected maximum supported ISA target: AVX2
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[15:56:07] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[15:56:07] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[15:56:07] [main/INFO]: Loaded configuration file for Lithium: 171 options available, 0 override(s) found.
+[15:56:07] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/integration/v0/ChunkSystemHooks (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/integration/v0/ChunkSystemHooks)
+[15:56:07] [main/WARN]: @Mixin target ca/spottedleaf/starlight/common/integration/v0/ChunkSystemHooks was not found c2me-rewrites-chunk-system.mixins.json:scalablelux.MixinChunkSystemHooks from mod c2me-rewrites-chunk-system
+[15:56:07] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[15:56:08] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.4).
+[15:56:15] [main/INFO]: Compression will use libdeflate (Linux x86_64), encryption will use OpenSSL 3.x.x (Linux x86_64)
+[15:56:15] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack 🚀
+[15:56:16] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[15:56:18] [main/INFO]: Loaded 1515 recipes
+[15:56:18] [main/INFO]: Loaded 1617 advancements
+[15:56:18] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.774 ms
+[15:56:18] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[15:56:18] [Server thread/INFO]: Loading properties
+[15:56:18] [Server thread/INFO]: Default game type: SURVIVAL
+[15:56:18] [Server thread/INFO]: Generating keypair
+[15:56:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:56:19] [Server thread/INFO]: Preparing level "world"
+[15:56:19] [Server thread/INFO]: [CM] Loaded 1 settings from carpet.conf
+[15:56:19] [Server thread/INFO]: Enforcing safe world random access
+[15:56:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 470.3 ms
+[15:56:20] [Server thread/INFO]: Using TheSpeedyObjectFactory without Unsafe
+[15:56:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 33.06 ms
+[15:56:20] [Server thread/INFO]: [STDOUT]: Density function compilation finished in 40.57 ms
+[15:56:20] [Server thread/INFO]: Loading 0 persistent chunks...
+[15:56:21] [Server thread/INFO]: Preparing spawn area: 100%
+[15:56:21] [Server thread/INFO]: Time elapsed: 113 ms
+[15:56:21] [Server thread/INFO]: Done (1.898s)! For help, type "help"
+[15:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:56:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:56:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:57:21] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:03:10] [User Authenticator #1/INFO]: UUID of player christianjrv is 1b9fb8c9-c54e-417b-9cce-69b302c9b88f
+[16:03:12] [Server thread/INFO]: christianjrv[/100.81.29.117:52575] logged in with entity id 170 at (4777.699999988079, 76.0, 7617.300000011921)
+[16:03:12] [Server thread/INFO]: christianjrv joined the game
+[16:03:13] [Server thread/INFO]: Player christianjrv joined with a matching carpet client
+[16:11:45] [Server thread/INFO]: [christianjrv: Teleported christianjrv to -799.500000, 69.500000, 2694.500000]
+[16:12:10] [Server thread/INFO]: Steve[local] logged in with entity id 2364 at (-818.6999999880791, 65.0, 2679.647684817124)
+[16:12:10] [Server thread/INFO]: Steve joined the game
+[16:13:43] [Server thread/INFO]: [christianjrv: Teleported christianjrv to 4784.500000, 76.500000, 7621.500000]
+[16:17:01] [Server thread/INFO]: [christianjrv: Teleported christianjrv to -799.500000, 69.500000, 2694.500000]
+[16:17:10] [Server thread/INFO]: [christianjrv: Teleported christianjrv to 4784.500000, 76.500000, 7621.500000]

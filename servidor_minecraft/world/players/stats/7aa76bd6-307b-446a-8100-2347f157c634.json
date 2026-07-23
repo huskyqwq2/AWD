@@ -1,0 +1,110 @@
+{
+  "stats": {
+    "minecraft:killed": {
+      "minecraft:shulker": 3,
+      "minecraft:enderman": 26
+    },
+    "minecraft:custom": {
+      "minecraft:talked_to_villager": 2,
+      "minecraft:time_since_rest": 24256,
+      "minecraft:leave_game": 5,
+      "minecraft:mob_kills": 34,
+      "minecraft:damage_taken": 1553,
+      "minecraft:open_shulker_box": 7,
+      "minecraft:time_since_death": 24079,
+      "minecraft:aviate_one_cm": 220713,
+      "minecraft:open_enderchest": 1,
+      "minecraft:interact_with_brewingstand": 1,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:inspect_dispenser": 2,
+      "minecraft:total_world_time": 107912,
+      "minecraft:swim_one_cm": 329,
+      "minecraft:crouch_one_cm": 9647,
+      "minecraft:climb_one_cm": 2637,
+      "minecraft:deaths": 2,
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:walk_one_cm": 214780,
+      "minecraft:walk_under_water_one_cm": 249,
+      "minecraft:play_time": 107912,
+      "minecraft:damage_dealt": 3100,
+      "minecraft:jump": 498,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 39132,
+      "minecraft:open_chest": 54,
+      "minecraft:fall_one_cm": 11394,
+      "minecraft:fly_one_cm": 67791,
+      "minecraft:walk_on_water_one_cm": 432,
+      "minecraft:sneak_time": 3199
+    },
+    "minecraft:mined": {
+      "minecraft:purpur_pillar": 13,
+      "minecraft:spruce_slab": 3,
+      "minecraft:magenta_stained_glass": 4,
+      "minecraft:end_stone_bricks": 31,
+      "minecraft:leaf_litter": 1,
+      "minecraft:purpur_stairs": 5,
+      "minecraft:birch_leaves": 23,
+      "minecraft:grass_block": 1,
+      "minecraft:purpur_slab": 3,
+      "minecraft:purpur_block": 55
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:enderman": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:shulker_shell": 2,
+      "minecraft:sand": 1,
+      "minecraft:spider_eye": 1,
+      "minecraft:diamond_helmet": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:diamond_sword": 1,
+      "minecraft:purpur_pillar": 13,
+      "minecraft:carrot": 32,
+      "minecraft:purpur_slab": 3,
+      "minecraft:dirt": 1,
+      "minecraft:stick": 2,
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond_boots": 1,
+      "minecraft:purpur_block": 46,
+      "minecraft:torch": 6,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:shulker_shell": 2,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:ender_pearl": 55,
+      "minecraft:snow": 22,
+      "minecraft:sand": 3,
+      "minecraft:end_stone_bricks": 28,
+      "minecraft:diamond": 60,
+      "minecraft:elytra": 1,
+      "minecraft:iron_helmet": 1,
+      "minecraft:spider_eye": 3,
+      "minecraft:purpur_stairs": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:diamond_boots": 1,
+      "minecraft:diamond_pickaxe": 1,
+      "minecraft:diamond_helmet": 2,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:diamond_sword": 1,
+      "minecraft:diamond_leggings": 2
+    },
+    "minecraft:used": {
+      "minecraft:snow": 22,
+      "minecraft:diamond_helmet": 1,
+      "minecraft:diamond_leggings": 1,
+      "minecraft:diamond_sword": 127,
+      "minecraft:firework_rocket": 22,
+      "minecraft:diamond_chestplate": 1,
+      "minecraft:carrot": 29,
+      "minecraft:diamond_pickaxe": 111,
+      "minecraft:iron_helmet": 1,
+      "minecraft:purpur_block": 26,
+      "minecraft:dirt": 1,
+      "minecraft:ender_pearl": 10,
+      "minecraft:diamond_boots": 1
+    }
+  },
+  "DataVersion": 4790
+}
